@@ -7,7 +7,7 @@ import {
     nlgdecimalToBytes,
     NLGmalBase,
     NLGmalChars
-  } from './dist';  // Adjust this import path as needed
+  } from 'nmal';  // Adjust this import path as needed
   
   console.log("NLGmal Base:", NLGmalBase);
   console.log("NLGmal Characters:", NLGmalChars);

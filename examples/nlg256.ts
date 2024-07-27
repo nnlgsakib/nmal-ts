@@ -1,5 +1,5 @@
 
-import { nlg256, stringToUint8Array} from './dist'
+import { nlg256, stringToUint8Array} from 'nmal'
 
 // Helper function to print hash results
 
